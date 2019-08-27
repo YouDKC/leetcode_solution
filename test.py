@@ -1,6 +1,9 @@
 class Solution(object):
+    # help me fuck
+    # pycharm github同步成功啦！
     def catMouseGame(self, graph):
         N = len(graph)
+        prin('haha')
         # 判断图一共有多少个节点
         MOUSE, CAT = 1, 2
         # mouse, cat, turn
