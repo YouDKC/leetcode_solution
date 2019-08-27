@@ -1,5 +1,5 @@
 class Solution(object):
-    # pycode 同步成功啦！
+    # pycodecharm 同步成功啦！
     def catMouseGame(self, graph):
         N = len(graph)
         prin('haha')
