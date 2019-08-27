@@ -1,5 +1,4 @@
 class Solution(object):
-    # help me fuck
     # pycharm github同步成功啦！
     def catMouseGame(self, graph):
         N = len(graph)
